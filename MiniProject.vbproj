@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{18D860D0-564A-4EDD-A54E-D20D0EBD661B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>MiniProject.My.MyApplication</StartupObject>
+    <RootNamespace>MiniProject</RootNamespace>
+    <AssemblyName>MiniProject</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>MiniProject.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>MiniProject.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>MiniProject.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>MiniProject.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="contact.Designer.vb">
+      <DependentUpon>contact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="contact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Costumer.Designer.vb">
+      <DependentUpon>Costumer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Costumer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DestroyData.Designer.vb">
+      <DependentUpon>DestroyData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DestroyData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DestroyAcc.Designer.vb">
+      <DependentUpon>DestroyAcc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DestroyAcc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Earbuds.Designer.vb">
+      <DependentUpon>Earbuds.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Earbuds.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exitEar.Designer.vb">
+      <DependentUpon>exitEar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="exitEar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exitGra.Designer.vb">
+      <DependentUpon>exitGra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="exitGra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exitlogin.Designer.vb">
+      <DependentUpon>exitlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="exitlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exitMou.Designer.vb">
+      <DependentUpon>exitMou.vb</DependentUpon>
+    </Compile>
+    <Compile Include="exitMou.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exittKey.Designer.vb">
+      <DependentUpon>exittKey.vb</DependentUpon>
+    </Compile>
+    <Compile Include="exittKey.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grafik_kad.Designer.vb">
+      <DependentUpon>Grafik_kad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Grafik_kad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Keybord.Designer.vb">
+      <DependentUpon>Keybord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Keybord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="connetion.vb" />
+    <Compile Include="Mouse.Designer.vb">
+      <DependentUpon>Mouse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mouse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="receiptGra.Designer.vb">
+      <DependentUpon>receiptGra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="receiptGra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="receiptEar.Designer.vb">
+      <DependentUpon>receiptEar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="receiptEar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="receiptKey.Designer.vb">
+      <DependentUpon>receiptKey.vb</DependentUpon>
+    </Compile>
+    <Compile Include="receiptKey.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="receiptMou.Designer.vb">
+      <DependentUpon>receiptMou.vb</DependentUpon>
+    </Compile>
+    <Compile Include="receiptMou.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.vb">
+      <DependentUpon>Register.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Secret.Designer.vb">
+      <DependentUpon>Secret.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Secret.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setting.Designer.vb">
+      <DependentUpon>setting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff.Designer.vb">
+      <DependentUpon>Staff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Staff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yourCart.Designer.vb">
+      <DependentUpon>yourCart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="yourCart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="contact.resx">
+      <DependentUpon>contact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Costumer.resx">
+      <DependentUpon>Costumer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DestroyAcc.resx">
+      <DependentUpon>DestroyAcc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DestroyData.resx">
+      <DependentUpon>DestroyData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Earbuds.resx">
+      <DependentUpon>Earbuds.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exitEar.resx">
+      <DependentUpon>exitEar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exitGra.resx">
+      <DependentUpon>exitGra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exitlogin.resx">
+      <DependentUpon>exitlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exitMou.resx">
+      <DependentUpon>exitMou.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exittKey.resx">
+      <DependentUpon>exittKey.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grafik_kad.resx">
+      <DependentUpon>Grafik_kad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Keybord.resx">
+      <DependentUpon>Keybord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mouse.resx">
+      <DependentUpon>Mouse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="receiptGra.resx">
+      <DependentUpon>receiptGra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="receiptEar.resx">
+      <DependentUpon>receiptEar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="receiptKey.resx">
+      <DependentUpon>receiptKey.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="receiptMou.resx">
+      <DependentUpon>receiptMou.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Secret.resx">
+      <DependentUpon>Secret.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setting.resx">
+      <DependentUpon>setting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff.resx">
+      <DependentUpon>Staff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yourCart.resx">
+      <DependentUpon>yourCart.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

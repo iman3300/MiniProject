@@ -1,0 +1,631 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MiniProject
+</name>
+</assembly>
+<members>
+<member name="T:MiniProject.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources._5a2fe479cc45e43754640849">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources._5a2fe479cc45e437546408491">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources._String">
+<summary>
+  Looks up a localized string similar to facebook.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.abstract_background_with_technology_circuit_board_texture_electronic_motherboard_illustration_communication_and_engineering_concept_illustration_vector1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.abstract_background_with_technology_circuit_board_texture_electronic_motherboard_illustration_communication_and_engineering_concept_illustration_vector2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.abstract_background_with_technology_circuit_board_texture_electronic_motherboard_illustration_communication_and_engineering_concept_illustration_vector3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.abstract_background_with_technology_circuit_board_texture_electronic_motherboard_illustration_communication_and_engineering_concept_illustration_vector4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Airpod__2nd_generation_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.anonymous_wallpaper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.anonymous_wallpaper1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Aonic_215_TW2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Asus_ROG_Spatha_X">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.ayam">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.ayam1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.ayam2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Buds2_Pro">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.c870x524">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.c870x5241">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.c870x5242">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.c870x5243">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.download1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.earbuds">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.earbuds1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.facebook">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Finalmouse_Starlight_12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Fit_pro">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.github_PNG80">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.gpu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.gpu1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood111">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood211">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood31">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood311">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood41">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood51">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood511">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood52">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood61">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood611">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hilltop_hideaway_free_stretch_blog_background_wood7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.hiltop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.ikki68">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.ikki681">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.ikki682">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.img_2220">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.img_22201">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.img_22202">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.key">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.key1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.keyboard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.keyboard1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.keycult_no_21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.link">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.link1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.link2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.lion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Logitech_G502_Hero">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.MiniProject">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Momentum">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Momentum1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Mouse_3_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.password_icon_png_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.pexels_photo_10019145">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.promise87">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.promise871">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Pulsar_Xlite_V2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.qk65">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.qk651">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Quantum_TWS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.QuietComfort">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.QuietComfort1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Razer_Basilisk_Ultimate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Razer_Basilisk_V3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Razer_Deathadder_V2_Pro">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.razer_mercury_OGimage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.razer_mercury_OGimage1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Razer_Naga_pro">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Razer_Viper_Ultimate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.Razer_Viper_V2_Pro_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.rtx_3060">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.rtx_3060_ti">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.rtx_3070">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.rtx_3070_ti">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.rtx_3080">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.rtx_3080_ti">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.rtx_3090">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.rtx_3090_ti">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.rtx_4090_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.tgr_jane_ce">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.tgr_jane_me">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.tgr_police">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.th">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.th1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.tiger80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.tiger801">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.User_Profile_PNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.WF_1000XM4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.wp2592437">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.wp25924371">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.wp6977321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.wp69773211">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.wp6977459">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.wp69774591">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.X">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.X1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.X2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.X3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.zoom65">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MiniProject.My.Resources.Resources.zoom651">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
